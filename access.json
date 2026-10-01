@@ -1,0 +1,9 @@
+{
+  "master_switch": true,
+  "allowed_machines": {
+    "AURA-TEST1234": {
+      "user": "My Personal PC",
+      "active": true
+    }
+  }
+}
