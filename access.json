@@ -4,6 +4,12 @@
     "AURA-025EC115": {
       "user": "My Personal PC",
       "active": true
+    },
+    "AURA-NEWID890": {
+      "user": "Colleague Laptop",
+      "active": true
     }
   }
 }
+
+
